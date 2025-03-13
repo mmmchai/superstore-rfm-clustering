@@ -12,7 +12,7 @@ This analysis applies Recency, Frequency, and Monetary (RFM) segmentation to the
 * Frequency: How frequent is the customer in buying
 * Monetary: How much does the customer spend
 
-## Conclusion:
+## Conclusion
 
 *see analysis notebook for details*
 
@@ -22,7 +22,7 @@ Customers can be segmented into 4 groups based on their purchase behaviour.
 * Top Customers / Recent Frequent buyers with large basket size
 * New Customers / Recent Frequent buyers with medium basket size
 
-## Strategic Recommendation:
+## Strategic Recommendation
 
 *see analysis notebook for details*
 
