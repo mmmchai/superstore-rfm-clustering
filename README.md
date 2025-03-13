@@ -1,4 +1,4 @@
-# Superstore Customer Segmentation
+# Superstore Customer Segmentation RFM Analysis
 ## Context
 In a highly competitive retail environment, understanding customer purchasing behavior is critical for driving business growth. However, without a structured approach to customer segmentation, businesses struggle to identify high-value customers, optimize marketing strategies, and improve customer retention.
 
